@@ -1,2 +1,2 @@
-# news_channel
+# News Channel
 Classroom exercise on creating a news channel using RSS and Atom content syndication
