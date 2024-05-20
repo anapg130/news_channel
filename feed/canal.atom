@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es-es"> 
+    <!--CANAL
+    DE NOTICIAS-->
+    <!--Elementos
+    obligatorios: -->
+    <title type="text">Semana Santa Andaluza</title>
+    <id>https://elpais.com/tag/c/41db9a8739101522bf5065241b27f76b</id>
+    <updated>2012-04-16T11:15:00Z</updated>
+
+    <!--Elementos
+    recomendados: -->
+    <link rel="alternate" type="text/html"
+        href="https://elpais.com/tag/c/41db9a8739101522bf5065241b27f76b"></link>
+    <author>
+        <name>El País Digital</name>
+        <email>info@elpais.com</email>
+        <uri>https://elpais.com/</uri>
+    </author>
+
+
+    <!-- Elementos opcionales: -->
+    <category term="Noticias" />
+    <contributor>
+        <name>Comunicación Prisa Noticias</name>
+        <email>comunicacion@prisanoticias.com</email>
+        <uri>https://elpais.com/tag/c/41db9a8739101522bf5065241b27f76b</uri>
+    </contributor>
+    <generator version="1.0">Visual Studio Code</generator>
+    <icon>https://i.blogs.es/c93d8a/andalucia/1366_2000.jpg</icon>
+    <logo>https://www.vectorlogo.es/logos/logo-vector-el-pais/</logo>
+    <rights type="text">© 2024 El País Digital. Todos los derechos reservados.</rights>
+    <subtitle type="text">Noticias destacadas de la Semana Santa Andaluza</subtitle>
+
+
+    <!-- Entrada sobre la Semana Santa de Sevilla 2024 -->
+
+    <entry>
+        <!--Elementos
+        obligatorios para definir una noticia <entry>-->
+        <title type="text">Así será la Semana Santa de Sevilla 2024: todos los cambios y modificaciones</title>
+        <id>https://www.diariodesevilla.es/semana_santa/asi-sera-semana-santa-2024-cambios-modificaciones_0_1861315414.html</id>
+        <updated>2023-12-28T21:55:00Z</updated>
+
+        <!--Elementos
+        recomendados para definir una noticia <entry>-->
+
+        <link href="https://elpais.com/"></link>
+        <content> Cambios y modificaciones que afectarán a la Semana Santa en 2024...</content>
+        <author>
+            <name>Manuel Lamprea</name>
+            <email>manuel.lamprea@diariodesevilla.es</email>
+            <uri>https://www.diariodesevilla.es/manuel_lamprea/</uri>
+        </author>
+        <summary> Ya conocemos cómo será la logística de la Semana Santa de Sevilla 2024 con
+            algo menos de tres meses de antelación. El Consejo de Hermandades ha culminado todo
+            el proceso de reuniones para acabar el año con todas las jornadas solucionadas. Tras
+            la experiencia "satisfactoria", en palabras del presidente, del pasado 2023, algunos
+            días repiten fórmulas similares con ligeras correcciones en cuestiones de horarios e
+            itinerarios.</summary>
+
+        <!--Elementos
+        opcionales para definir una noticia <entry>-->
+
+        <category term="General Sevilla"></category>
+        <contributor>
+            <name>Manuel Lamprea</name>
+            <email>manuel.lamprea@diariodesevilla.es</email>
+            <uri>https://www.diariodesevilla.es/manuel_lamprea/</uri>
+        </contributor>
+
+        <published>2023-12-28T21:55:00Z</published>
+        <rights type="text">© 2024 El País Digital. Todos los derechos reservados.</rights>
+        <source>
+            <title>La nueva Semana Santa de 2024</title>
+            <id>https://elcorreoweb.es/maspasion/la-nueva-semana-santa-de-2024-XA9020231</id>
+            <updated>2023-11-23T14:00:00Z</updated>
+        </source>
+
+    </entry>
+
+
+    <!-- Una web externa relacionada con hermandades de Andalucía.  -->
+
+    <entry>
+        <!--Elementos
+        obligatorios para definir una noticia <entry>-->
+        <title type="text">Hermandades y cofradías de la Semana Santa de Sevilla 2023</title>
+        <id>https://sevilla.abc.es/pasionensevilla/noticias-semana-santa-sevilla/sevi-hermandades-y-cofradias-semana-santa-sevilla-2023-202303291016_noticia.html</id>
+        <updated>2024-01-30T18:22:00Z</updated>
+
+        <!--Elementos
+        recomendados para definir una noticia <entry>-->
+
+        <link href="https://sevilla.abc.es/"></link>
+        <content> Las Hermandades y Cofradías de la Semana Santa de Sevilla realizan su estación de penitencia durante 10 días, desde el Viernes de Dolores hasta el Domingo de Resurrección. </content>
+        <author>
+            <name>M.J.R. Rechi</name>
+            <email>mjr-rechi@diariodesevilla.es</email>
+            <uri>https://sevilla.abc.es/autor/m-j-r-rechi-4048/</uri>
+        </author>
+        <summary> Las 70 hermandades y cofradías de la Semana Santa de Sevilla que realizan
+            su estación de penitencia a la Catedral o por sus barrios, como es el caso de las
+            del Viernes de Dolores y Sábado de Pasión.</summary>
+
+        <!--Elementos
+        opcionales para definir una noticia <entry>-->
+
+        <category term="Hermandades  de Andalucía"></category>
+        <contributor>
+            <name>M.J.R. Rechi</name>
+            <email>mjr-rechi@diariodesevilla.es</email>
+            <uri>https://sevilla.abc.es/autor/m-j-r-rechi-4048/</uri>
+        </contributor>
+
+        <published>2023-03-29T18:22:00Z</published>
+        <rights type="text">© 2024 El ABC de Sevilla. Todos los derechos reservados.</rights>
+        <source>
+            <title>Semana Santa en Sevilla: ¿cómo se celebra?</title>
+            <id>https://www.mundodeportivo.com/uncomo/fiesta/articulo/semana-santa-en-sevilla-como-se-celebra-53362.html</id>
+            <updated>2023-05-16T12:45:00Z</updated>
+        </source>
+    </entry>
+
+
+
+    <!--Una
+        web externa relacionada con las imágenes de la Semana Santa Andaluza.-->
+
+
+        <entry>
+            <!--Elementos
+            obligatorios para definir una noticia <entry>-->
+            <title type="text">¿Cuál es la imagen más antigua de la Semana Santa andaluza?</title>
+            <id>https://www.larazon.es/andalucia/20220309/ig445ijzt5exbpqsatabx345y4.html</id>
+            <updated>2022-03-09T10:52:00Z</updated>
+    
+            <!--Elementos
+            recomendados para definir una noticia <entry>-->
+    
+            <link href="https://www.larazon.es/"></link>
+            <content> Las Hermandades y Cofradías de la Semana Santa de Sevilla realizan su estación de penitencia durante 10 días, desde el Viernes de Dolores hasta el Domingo de Resurrección. </content>
+            <author>
+                <name>Juan Diego Márquez</name>
+                <email>jdmarquez@larazon.es</email>
+                <uri>https://www.larazon.es/autores/jdmarquez/</uri>
+            </author>
+            <summary> La Semana Santa andaluza cuenta con imágenes sagradas que atesoran siglos
+                de historia. Tallas con una importante valía artística que concentran una gran
+                devoción. Muchas de ellas son obras anónimas que fluctúan entre el gótico y el
+                barroco, aunque sin posibilidad de datarlas con precisión al no existir documento
+                alguno que certifique su autoría.</summary>
+    
+            <!--Elementos
+            opcionales para definir una noticia <entry>-->
+    
+            <category term="Imágenes de la Semana Santa Andaluza"></category>
+            <contributor>
+                <name>Juan Diego Márquez</name>
+                <email>jdmarquez@larazon.es</email>
+                <uri>https://www.larazon.es/autores/jdmarquez/</uri>
+            </contributor>
+    
+            <published>2022-03-09T10:52:00Z</published>
+
+            <rights type="text">© 2024 La Razón. Todos los derechos reservados.</rights>
+            <source>
+                <title>Cuántas Hermandades hay en Sevilla</title>
+                <id>https://www.elplural.com/oxigena2/planes/cuantas-hermandades-hay-en-sevilla_285681102</id>
+                <updated>2022-03-09T16:50:00Z</updated>
+            </source>
+        </entry>
+
+        
+       
+
+</feed>

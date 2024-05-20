@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- compatibilidad con atom-->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+
+    <!--CANAL
+    DE NOTICIAS-->
+    <channel>
+        <!--Elementos
+        obligatorios: title, link y description-->
+        <title>Semana Santa Andaluza</title>
+        <link>https://elpais.com/tag/c/41db9a8739101522bf5065241b27f76b</link>
+        <description>Noticias sobre la Semana Santa en Andalucía</description>
+        <!--una
+        imagen con una url externa y su descripción-->
+        <image>
+            <url>https://i.blogs.es/c93d8a/andalucia/1366_2000.jpg</url>
+            <title>Semana Santa Andaluza</title>
+            <link>https://elpais.com/tag/c/41db9a8739101522bf5065241b27f76b</link>
+        </image>
+        <!-- categoría del canal de noticia. -->
+        <category>Noticias</category>
+        <!--  correo electrónico del responsable técnico del canal de noticias.-->
+        <webMaster>comunicacion@prisanoticias.com (Comunicación Prisa Noticias)</webMaster>
+
+        <!-- Entrada sobre la Semana Santa de Sevilla 2024 -->
+        <item>
+            <title>Así será la Semana Santa de Sevilla 2024: todos los cambios y modificaciones</title>
+            <description>
+                <description><![CDATA[
+                    Cambios y modificaciones que afectarán a la Semana Santa en 2024...
+                    Ya conocemos cómo será la logística de la Semana Santa de Sevilla 2024 con
+                    algo menos de tres meses de antelación. El Consejo de Hermandades ha culminado todo
+                    el proceso de reuniones para acabar el año con todas las jornadas solucionadas. Tras
+                    la experiencia "satisfactoria", en palabras del presidente, del pasado 2023, algunos
+                    días repiten fórmulas similares con ligeras correcciones en cuestiones de horarios e
+                    itinerarios.
+                ]]></description>
+            </description>
+            <category>General Sevilla</category>
+            <pubDate>Thu, 28 Dec 2023 21:55:00 +0100</pubDate>
+            <author>manuel.lamprea@diariodesevilla.es (Manuel Lamprea)</author>
+            <enclosure url="https://i.blogs.es/c93d8a/andalucia/1366_2000.jpg" length="361548"
+                type="image/jpeg" />
+            <guid>
+                https://www.diariodesevilla.es/semana_santa/asi-sera-semana-santa-2024-cambios-modificaciones_0_1861315414.html</guid>
+        </item>
+
+        <!-- Una web externa relacionada con hermandades de Andalucía.  -->
+
+        <item>
+            <title>Hermandades y cofradías de la Semana Santa de Sevilla 2023</title>
+            <description> Las 70 hermandades y cofradías de la Semana Santa de Sevilla que realizan
+                su estación de penitencia a la Catedral o por sus barrios, como es el caso de las
+                del Viernes de Dolores y Sábado de Pasión</description>
+            <dc:creator>M.J.R. Rechi</dc:creator>
+
+            <enclosure
+                url="https://sevilla.abc.es/pasionensevilla/wp-content/uploads/sites/2/2019/10/las-aguas-19-copia.jpg"
+                length="794593" type="image/jpeg" />
+            <pubDate>Wed, 29 Mar 2023 18:22:00 +0100</pubDate>
+
+            <guid>
+                https://sevilla.abc.es/pasionensevilla/noticias-semana-santa-sevilla/sevi-hermandades-y-cofradias-semana-santa-sevilla-2023-202303291016_noticia.html</guid>
+
+        </item>
+
+        <!--Una
+        web externa relacionada con las imágenes de la Semana Santa Andaluza.-->
+
+        <item>
+            <title>¿Cuál es la imagen más antigua de la Semana Santa andaluza?</title>
+            <description> La Semana Santa andaluza cuenta con imágenes sagradas que atesoran siglos
+                de historia. Tallas con una importante valía artística que concentran una gran
+                devoción. Muchas de ellas son obras anónimas que fluctúan entre el gótico y el
+                barroco, aunque sin posibilidad de datarlas con precisión al no existir documento
+                alguno que certifique su autoría.</description>
+            <guid>https://www.larazon.es/andalucia/20220309/ig445ijzt5exbpqsatabx345y4.html</guid>
+            <dc:creator>Juan Diego Márquez</dc:creator>
+            <enclosure
+                url="https://fotografias.larazon.es/clipping/cmsimages01/2022/03/09/E7B80E97-7B7D-4B35-AD47-04132497EA8D/97.jpg"
+                length="195526" type="image/jpeg" />
+            <pubDate>Wed, 09 Mar 2022 11:52:00 +0100</pubDate>
+
+        </item>
+
+    </channel>
+</rss>
